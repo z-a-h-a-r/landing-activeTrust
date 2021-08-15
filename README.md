@@ -1,5 +1,5 @@
 # activeTrust
-The site is designed for layout training
+The site is developed for layout training
 
 > You can check this on: [https://z-a-h-a-r.github.io/site-activeTrust/](https://z-a-h-a-r.github.io/site-activeTrust/)  
 > Template: [here](https://www.figma.com/file/NuKOlwqNbd6RiFbpU8Ea71/AT?node-id=1:3)

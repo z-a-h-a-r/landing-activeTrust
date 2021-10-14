@@ -1,0 +1,67 @@
+.reasons {
+	padding: 100px 0;
+	background: #e1e8f4;
+
+	// =====================================================
+
+	&__title {
+		font-family: 'Open Sans', sans-serif;
+		font-weight: 800;
+		font-size: 32px;
+		line-height: 102%;
+		color: #000000;
+		@media (max-width: 576px) {
+			text-align: center;
+		}
+	}
+
+	// =====================================================
+
+	&__list {
+		@media (max-width: 576px) {
+		}
+	}
+	&__item {
+		position: relative;
+		@media (max-width: 576px) {
+			display: flex;
+			justify-content: center;
+		}
+		& h2 {
+			font-family: 'Paytone One', sans-serif;
+			font-size: 144px;
+			color: rgba(2, 123, 253, 0.15);
+			position: absolute;
+		}
+		& p {
+			font-family: 'Montserrat', sans-serif;
+			font-size: 18px;
+			color: #000000;
+			line-height: 152%;
+			margin-top: 100px;
+			max-width: 200px;
+		}
+	}
+
+	// =====================================================
+
+	&__line {
+		margin: 60px 0;
+		height: 1px;
+		width: 100%;
+		background: rgba(2, 123, 253, 0.25);
+	}
+
+	// =====================================================
+
+	&__text {
+		margin-top: 40px;
+	}
+	&__text-item {
+		font-family: 'Montserrat', sans-serif;
+		font-weight: 600;
+		font-size: 18px;
+		line-height: 152%;
+		color: #000000;
+	}
+}
